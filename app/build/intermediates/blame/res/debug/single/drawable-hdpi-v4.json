@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/ViewPage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/guide_round.xml",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/ViewPage/app/src/main/res/drawable-hdpi/guide_round.xml"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/ViewPage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_play_button_bg.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/ViewPage/app/src/main/res/drawable-hdpi/widget_play_button_bg.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/ViewPage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/ViewPage/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/ViewPage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/scan_finish.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/ViewPage/app/src/main/res/drawable-hdpi/scan_finish.png"
+    }
+]

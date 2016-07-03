@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/YZBbanban/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/YZBbanban/Downloads/android 程序/xiaohua/ViewPage/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_c9f39d0e4d099f40ce572d6e8eaa1925c41d8c91.jar" />
+    </item>
+
+</items>
